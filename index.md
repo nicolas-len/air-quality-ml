@@ -2780,6 +2780,5 @@ cv_compare <- function(formula, data, k = 10, seed = NULL,
 
 ## Contact
 [Nicolas Len](https://www.linkedin.com/in/niclen/)
-🌐 [Project page](https://nicolas-len.github.io/air-quality-ml/)
 📦 [Repository (source code)](https://github.com/nicolas-len/air-quality-ml)
 
