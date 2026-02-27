@@ -2,8 +2,8 @@
 
 ![Language: R](https://img.shields.io/badge/language-R-276DC3?logo=r&logoColor=white)
 
-🌐 [Project page](https://nikolailen.github.io/air-quality-ml/)  
-👤 Project contact: [Nikolai Len](https://www.linkedin.com/in/niklen/)  
+🌐 [Project page](https://nicolas-len.github.io/air-quality-ml/)  
+👤 Project contact: [Nicolas Len](https://www.linkedin.com/in/niclen/)  
 📄 [Documentation](./air-quality-modeling-research-2025.pdf)
 
 Primary language: **R**.

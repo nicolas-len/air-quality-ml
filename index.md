@@ -1,7 +1,7 @@
 Air Quality Modeling Research Report
 ================
 Data ScienceTech Institute, 2025<br>
-Author: Nikolai Len
+Author: [Nicolas Len](https://www.linkedin.com/in/niclen/)
 
 # Task 1: Constrained Multiple Regression on Ozone Data
 
@@ -2779,7 +2779,7 @@ cv_compare <- function(formula, data, k = 10, seed = NULL,
 ```
 
 ## Contact
-Nikolai Len
-👤 [LinkedIn](https://www.linkedin.com/in/niklen/)
-📦 [Repository (source code)](https://github.com/nikolailen/air-quality-ml)
+[Nicolas Len](https://www.linkedin.com/in/niclen/)
+🌐 [Project page](https://nicolas-len.github.io/air-quality-ml/)
+📦 [Repository (source code)](https://github.com/nicolas-len/air-quality-ml)
 
